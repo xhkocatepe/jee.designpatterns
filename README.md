@@ -1,7 +1,7 @@
 #### [English](#topic) / [Turkish](#konu)
 # Topic
 
-The purpose of Tutorial is the Design Pattern developed with Java EE.
+The purpose of the Design Pattern.
 
 ### UML Diagram of Design Pattern
 Shows Design Pattern UML Diagram
